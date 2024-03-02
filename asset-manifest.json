@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/studentRoulette/static/css/main.32671670.css",
+    "main.js": "/studentRoulette/static/js/main.685403de.js",
+    "index.html": "/studentRoulette/index.html",
+    "main.32671670.css.map": "/studentRoulette/static/css/main.32671670.css.map",
+    "main.685403de.js.map": "/studentRoulette/static/js/main.685403de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32671670.css",
+    "static/js/main.685403de.js"
+  ]
+}
